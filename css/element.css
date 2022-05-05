@@ -35,7 +35,7 @@ element css
 	content: '';
 	width: 84px;
 	height: 4px;
-	background-color: #e7003e;
+	background-color: #085d94;
 	background-repeat: no-repeat;
 	left: 0;
 	bottom: 0;
@@ -71,7 +71,7 @@ element css
 
 .sec-title h5 {
 	font-size: 14px;
-	color: #e7003e;
+	color: #085d94;
 	font-weight: 500;
 	text-transform: uppercase;
 	padding-bottom: 10px;
@@ -108,7 +108,7 @@ element css
 	left: 0;
 	width: 50px;
 	height: 2px;
-	background: #e7003e;
+	background: #085d94;
 }
 
 .welcome-title {
@@ -168,7 +168,7 @@ element css
 .inner-page-title:after {
 	position: absolute;
 	content: '';
-	background: #e7003e;
+	background: #085d94;
 	height: 2px;
 	width: 40px;
 	bottom: 0;
@@ -190,10 +190,10 @@ element css
 	font-size: 14px;
 	font-weight: 700;
 	cursor:  pointer;
-	background: #e7003e;
+	background: #085d94;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	border: 2px solid #e7003e;
+	border: 2px solid #085d94;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -215,10 +215,10 @@ element css
 	display: inline-block;
 	font-size: 14px;
 	font-weight: 700;
-	background: #e7003e;
+	background: #085d94;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	border: 2px solid #e7003e;
+	border: 2px solid #085d94;
 	font-family: 'Raleway', sans-serif;
 }
 
@@ -234,7 +234,7 @@ element css
 	position: relative;
 	padding: 11px 40px;
 	line-height: 24px;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	display: inline-block;
 	font-size: 14px;
@@ -242,14 +242,14 @@ element css
 	background: none;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	border: 2px solid #e7003e;
+	border: 2px solid #085d94;
 	font-family: 'Raleway', sans-serif;
 }
 
 .btn-style-three:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style four*/
@@ -259,7 +259,7 @@ element css
 	padding: 11px 40px;
 	line-height: 24px;
 	border-radius: 25px;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	display: inline-block;
 	font-size: 14px;
@@ -267,14 +267,14 @@ element css
 	background: none;
 	letter-spacing: 1px;
 	text-transform: uppercase;
-	border: 2px solid #e7003e;
+	border: 2px solid #085d94;
 	font-family: 'Raleway', sans-serif;
 }
 
 .btn-style-four:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style five*/
@@ -283,7 +283,7 @@ element css
 	position: relative;
 	padding: 11px 40px;
 	line-height: 24px;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	display: inline-block;
 	font-size: 14px;
@@ -297,8 +297,8 @@ element css
 
 .btn-style-five:hover {
 	color: #ffffff;
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /*Btn Style six*/
@@ -307,7 +307,7 @@ element css
 	position: relative;
 	padding: 11px 40px;
 	line-height: 24px;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	border-radius: 25px;
 	display: inline-block;
@@ -322,8 +322,8 @@ element css
 
 .btn-style-six:hover {
 	color: #ffffff;
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /*Btn Style seven*/
@@ -346,8 +346,8 @@ element css
 
 .btn-style-seven:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style eight*/
@@ -371,8 +371,8 @@ element css
 
 .btn-style-eight:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style nine*/
@@ -381,7 +381,7 @@ element css
 	position: relative;
 	padding: 11px 40px;
 	line-height: 24px;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	display: inline-block;
 	font-size: 14px;
@@ -395,8 +395,8 @@ element css
 
 .btn-style-nine:hover {
 	color: #ffffff;
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /*Btn Style ten*/
@@ -405,7 +405,7 @@ element css
 	position: relative;
 	padding: 11px 40px;
 	line-height: 24px;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	border-radius: 25px;
 	display: inline-block;
@@ -420,8 +420,8 @@ element css
 
 .btn-style-ten:hover {
 	color: #ffffff;
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /*Btn Style eleven*/
@@ -444,8 +444,8 @@ element css
 
 .btn-style-eleven:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style twelve*/
@@ -469,8 +469,8 @@ element css
 
 .btn-style-twelve:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style thirteen*/
@@ -494,8 +494,8 @@ element css
 
 .btn-style-thirteen:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style fourteen*/
@@ -519,8 +519,8 @@ element css
 
 .btn-style-fourteen:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style fifteen*/
@@ -544,8 +544,8 @@ element css
 
 .btn-style-fifteen:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*Btn Style sixteen*/
@@ -569,8 +569,8 @@ element css
 
 .btn-style-sixteen:hover {
 	color: #ffffff;
-	border-color: #e7003e;
-	background-color: #e7003e;
+	border-color: #085d94;
+	background-color: #085d94;
 }
 
 /*
@@ -614,7 +614,7 @@ element css
 	top: 10px;
 	height: 5px;
 	width: 5px;
-	background: #e7003e;
+	background: #085d94;
 	font-family: 'FontAwesome';
 	transform: rotate(-45deg);
 }
@@ -643,7 +643,7 @@ element css
 	width: 7px;
 	height: 7px;
 	border-radius: 50%;
-	background-color: #e7003e;
+	background-color: #085d94;
 	font-family: 'FontAwesome';
 }
 
@@ -675,7 +675,7 @@ element css
 	position: absolute;
 	left: 0px;
 	top: 4px;
-	color: #e7003e;
+	color: #085d94;
 	font-size: 22px;
 	line-height: 1.2em;
 }
@@ -701,7 +701,7 @@ element css
 	left: 0px;
 	top: 0px;
 	font-size: 16px;
-	color: #e7003e;
+	color: #085d94;
 	font-family: 'FontAwesome';
 }
 
@@ -735,7 +735,7 @@ element css
 }
 
 .social-icon-one li a:hover {
-	color: #e7003e;
+	color: #085d94;
 }
 
 /*Social Icon Two*/
@@ -752,7 +752,7 @@ element css
 
 .social-icon-two li a {
 	position: relative;
-	color: #e7003e;
+	color: #085d94;
 	font-size: 16px;
 	-webkit-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
@@ -762,7 +762,7 @@ element css
 }
 
 .social-icon-two li a:hover {
-	color: #e7003e;
+	color: #085d94;
 }
 
 /*Social Icon Three*/
@@ -798,7 +798,7 @@ element css
 
 .social-icon-three li a:hover {
 	color: #ffffff;
-	background-color: #e7003e;
+	background-color: #085d94;
 }
 
 /*Social Icon Four*/
@@ -818,7 +818,7 @@ element css
 	position: relative;
 	width: 40px;
 	height: 40px;
-	color: #e7003e;
+	color: #085d94;
 	font-size: 16px;
 	line-height: 40px;
 	text-align: center;
@@ -834,7 +834,7 @@ element css
 
 .social-icon-four li a:hover {
 	color: #ffffff;
-	background-color: #e7003e;
+	background-color: #085d94;
 }
 
 /*Social Icon Five*/
@@ -870,7 +870,7 @@ element css
 
 .social-icon-five li a:hover {
 	color: #ffffff;
-	background-color: #e7003e;
+	background-color: #085d94;
 }
 
 /*Social Icon Six*/
@@ -890,7 +890,7 @@ element css
 	position: relative;
 	width: 40px;
 	height: 40px;
-	color: #e7003e;
+	color: #085d94;
 	font-size: 16px;
 	line-height: 38px;
 	text-align: center;
@@ -906,7 +906,7 @@ element css
 
 .social-icon-six li a:hover {
 	color: #ffffff;
-	background-color: #e7003e;
+	background-color: #085d94;
 }
 
 /* social icon seven */
@@ -933,7 +933,7 @@ element css
 }
 
 .social-icon-seven li a:hover {
-	color: #e7003e;
+	color: #085d94;
 }
 
 /*social icon eight*/
@@ -969,8 +969,8 @@ element css
 
 .social-icon-eight li a:hover {
 	color: #ffffff;
-	background-color: #e7003e;
-	border-color: #e7003e;
+	background-color: #085d94;
+	border-color: #085d94;
 }
 
 /* social-icon nine */
@@ -1329,7 +1329,7 @@ element css
 		padding-top: 46px;
 	}
 	.default-tabs-navigation a.selected {
-		box-shadow: inset 2px 0 0 #e7003e;
+		box-shadow: inset 2px 0 0 #085d94;
 	}
 	.default-tabs-navigation a::before {
 		top: 22px;
@@ -1507,7 +1507,7 @@ element css
 
 .accordion-box .block .icon-outer .icon_minus {
 	opacity: 0;
-	color: #e7003e;
+	color: #085d94;
 	font-weight: 700;
 }
 
@@ -1665,11 +1665,11 @@ element css
 }
 
 .accordion-box.style-five .block .acc-btn.active {
-	color: #e7003e;
+	color: #085d94;
 }
 
 .accordion-box.style-five .block .acc-btn.active .icon-outer {
-	background-color: #e7003e;
+	background-color: #085d94;
 }
 
 .accordion-box.style-five .block .icon-outer {
@@ -1730,7 +1730,7 @@ element css
 .page_pagination li a.active,
 .page_pagination li a:hover {
 	color: #fff;
-	background: #e7003e;
+	background: #085d94;
 }
 
 /*style tow*/
@@ -1760,7 +1760,7 @@ element css
 .page_pagination_two li a.active,
 .page_pagination_two li a:hover {
 	color: #fff;
-	background: #e7003e;
+	background: #085d94;
 }
 
 /*style three*/
@@ -1791,7 +1791,7 @@ element css
 .page_pagination_three li a.active,
 .page_pagination_three li a:hover {
 	color: #fff;
-	background: #e7003e;
+	background: #085d94;
 }
 
 /*
@@ -1840,8 +1840,8 @@ element css
 .filter-tabs li:hover span,
 .filter-tabs li.active span {
 	color: #ffffff;
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 	transition: .5s ease;
 }
 
@@ -1887,8 +1887,8 @@ element css
 .filter-tabs-two li:hover span,
 .filter-tabs-two li.active span {
 	color: #ffffff;
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 	transition: .5s ease;
 }
 
@@ -1918,7 +1918,7 @@ element css
 .filter-tabs-three li.active:before {
 	position: absolute;
 	content: '';
-	background: #e7003e;
+	background: #085d94;
 	height: 12px;
 	width: 4px;
 	left: 0;
@@ -1948,7 +1948,7 @@ element css
 
 .filter-tabs-three li:hover span,
 .filter-tabs-three li.active span {
-	color: #e7003e;
+	color: #085d94;
 	transition: .5s ease;
 }
 
@@ -1982,7 +1982,7 @@ element css
 	font-size: 50px;
 	align-items: center;
 	justify-content: center;
-	color: #e7003e;
+	color: #085d94;
 	text-align: center;
 	background: rgba(0, 0, 0, 0.50);
 	transition: all 500ms ease;
@@ -2008,7 +2008,7 @@ element css
 	border-radius: 50%;
 	line-height: 60px;
 	font-size: 29px;
-	color: #e7003e;
+	color: #085d94;
 	padding-left: 5px;
 }
 

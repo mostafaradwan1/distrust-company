@@ -37,15 +37,15 @@ body {
 a {
 	text-decoration: none;
 	cursor: pointer;
-	color: #e7003e;
+	color: #085d94;
 }
 
 .tooltip-inner {
-    background: #e7003e;
+    background: #085d94;
 }
 
 .tooltip.top .tooltip-arrow {
-    border-top-color: #e7003e;
+    border-top-color: #085d94;
 }
 
 .no-padding {
@@ -183,7 +183,7 @@ li {
 }
 
 .theme-bg {
-	background-color: #e7003e !important;
+	background-color: #085d94 !important;
 }
 
 .bg-style-two {
@@ -245,7 +245,7 @@ li {
 }
 
 .theme-color {
-	color: #e7003e;
+	color: #085d94;
 }
 
 img {
@@ -281,7 +281,7 @@ img {
 	color: #fff;
 	text-align: center;
 	cursor: pointer;
-	background: #e7003e;
+	background: #085d94;
 	-webkit-animation: pulse 2s infinite;
 	-o-animation: pulse 2s infinite;
 	animation: pulse 2s infinite;
@@ -421,7 +421,7 @@ img {
 
 .ui-state-active,
 .ui-widget-content .ui-state-active {
-	background-color: #e7003e;
+	background-color: #085d94;
 }
 
 .ui-menu .ui-menu-item-wrapper {
@@ -461,7 +461,7 @@ img {
 	width: 10px;
 	height: 10px;
 	border-radius: 50%;
-	border: 1px solid #e7003e;
+	border: 1px solid #085d94;
 	transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
@@ -471,8 +471,8 @@ img {
 
 .owl-dot-style-one .owl-dots .owl-dot.active span,
 .owl-dot-style-one .owl-dots .owl-dot:hover span {
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /* style two */
@@ -516,8 +516,8 @@ img {
 
 .owl-dot-style-two .owl-dots .owl-dot.active span,
 .owl-dot-style-two .owl-dots .owl-dot:hover span {
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /* style three */
@@ -548,8 +548,8 @@ img {
 
 .owl-dot-style-three .owl-dots .owl-dot.active span,
 .owl-dot-style-three .owl-dots .owl-dot:hover span {
-	background: #e7003e;
-	border-color: #e7003e;
+	background: #085d94;
+	border-color: #085d94;
 }
 
 /* owl nav */
@@ -599,8 +599,8 @@ img {
 
 .owl-nav-style-one .owl-nav .owl-next:hover,
 .owl-nav-style-one .owl-nav .owl-prev:hover {
-	color: #e7003e;
-	border-color: #e7003e;
+	color: #085d94;
+	border-color: #085d94;
 }
 
 /* nav style tow */
@@ -650,8 +650,8 @@ img {
 
 .owl-nav-style-two .owl-nav .owl-next:hover,
 .owl-nav-style-two .owl-nav .owl-prev:hover {
-	color: #e7003e;
-	border-color: #e7003e;
+	color: #085d94;
+	border-color: #085d94;
 }
 
 
